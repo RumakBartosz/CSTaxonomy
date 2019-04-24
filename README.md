@@ -1,71 +1,30 @@
-Based on video [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+Based on a Wikipedia page [Computer science](https://en.wikipedia.org/wiki/Computer_science)
+
 
 #Theoretical computer science
 
-##Computational complexity
+##Data structures and algorithms
+##Theory of computation
+##Information and coding theory
+##Programming language theory
+##Formal methods
 
-##Information theory
+#Computer systems
 
-##Cryptography
+##Computer architecture and computer engineering
+##Computer performance analysis
+##Concurrent, parallel and distributed systems
+##Computer networks
+##Computer security and cryptography
+##Databases
 
-##Hardware
+#Computer applications
 
-##Algorithms
-
-##Computability theory
-
-##Turing machine
-
-
-#Computer engineering
-
-##Computer architecture
-
-##Software and programming languages
-
-##Scheduling
-
-##Software engineering
-
-##Compilers
-
-
-#Applications
-
+##Computer graphics and visualization
+##Human–computer interaction
+##Scientific computing
 ##Artificial intelligence
 
-##Machine learning
+#Software engineering
 
-##Computer vision
 
-##Natural language processing
-
-##Image processing
-
-##Robotics
-
-##Human computer interaction
-
-##Optimisation
-
-##Boolean satisfiability
-
-##Augumented reality
-
-##Telepresence
-
-##Virtual reality
-
-##Super computing
-
-##Computational science
-
-##Compter security
-
-##Computational science
-
-##Simulation
-
-##Big data
-
-##Internet of things
