@@ -96,15 +96,15 @@
 
 ### Automata theory
 1. :blue_book: Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
-1. - Introduction to the Theory of Computation 2nd Edition 
-1. x [Automata course](https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ)
-1. x [Stanford Professor](https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH)
-1. + [Notes/Syllabus/Homework](http://users.utu.fi/jkari/automata/)
-        
-        
+1. :blue_book: Introduction to the Theory of Computation 2nd Edition 
+1. :tv: [Automata course](https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ)
+1. :tv: [Stanford Professor](https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH)
+1. :mortar_board: [Notes/Syllabus/Homework](http://users.utu.fi/jkari/automata/)
+
+
 ### Computability theory
-1. - [Introduction to Computability Theory by Dag Normann](https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf)
-1. - Computability Theory by Cooper
+1. :blue_book: [Introduction to Computability Theory by Dag Normann](https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf)
+1. :blue_book: Computability Theory by Cooper
 
 
 ### Computational complexity theory 
@@ -122,6 +122,6 @@ Taxonomy taken from [Wikipedia -- Outline of computer science](https://en.wikipe
 CR -- Classical reference
 CE -- Cutting edge
 
-- - -- Book
-- x -- Video course
-- + -- Online course
+- :blue_book: -- Book
+- :tv: -- Video course
+- :mortar_board: -- Online course
