@@ -1,19 +1,19 @@
 # Mathematical foundations
 
-    1. Coding theory 
-    1. Game theory 
-    1. Graph theory 
-    1. Mathematical logic 
-    1. Number theory 
+    Coding theory 
+    Game theory 
+    Graph theory 
+    Mathematical logic 
+    Number theory 
 
 
-Algorithms and data structures
+# Algorithms and data structures
 
     Algorithms 
     Data structures
 
 
-Artificial intelligence
+# Artificial intelligence
 
     Artificial intelligence
     Automated reasoning
@@ -27,41 +27,41 @@ Artificial intelligence
     Robotics
 
 
-Communication and security
+# Communication and security
 
     Networking
     Computer security
     Cryptography
 
 
-Computer architecture
+# Computer architecture
 
     Computer architecture
     Operating systems
 
 
-Computer graphics
+# Computer graphics
 
     Computer graphics
     Image processing
     Information visualization
 
 
-Concurrent, parallel, and distributed systems
+# Concurrent, parallel, and distributed systems
 
     Parallel computing
     Concurrency (computer science)
     Distributed computing 
 
 
-Databases
+# Databases
 
     Relational databases 
     Structured Storage 
     Data mining
 
 
-Programming languages and compilers
+# Programming languages and compilers
 
     Compiler theory 
     Programming language pragmatics
@@ -70,7 +70,7 @@ Programming languages and compilers
     Type theory
 
 
-Scientific computing
+# Scientific computing
 
     Computational science
     Numerical analysis
@@ -81,7 +81,7 @@ Scientific computing
     Computational neuroscience
 
 
-Software engineering
+# Software engineering
 
     Formal methods 
     Software engineering 
@@ -91,9 +91,9 @@ Software engineering
     Reverse engineering
 
 
-Theory of computation
+# Theory of computation
 
-    Automata theory
+    ## Automata theory
         - Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
         - Introduction to the Theory of Computation 2nd Edition 
         x https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ -- Automata course
@@ -101,16 +101,16 @@ Theory of computation
         + http://users.utu.fi/jkari/automata/ -- Notes/Syllabus/Homework
         
         
-    Computability theory
+    ## Computability theory
         - Introduction to Computability Theory by Dag Normann -- https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf
         - Computability Theory by Cooper
 
 
-    Computational complexity theory 
+    ## Computational complexity theory 
 
         
 
-    Quantum computing theory
+    ## Quantum computing theory
 
 
 
