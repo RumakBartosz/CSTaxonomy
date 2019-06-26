@@ -95,7 +95,7 @@
 # Theory of computation
 
 ### Automata theory
-1. - Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
+1. :blue_book: Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
 1. - Introduction to the Theory of Computation 2nd Edition 
 1. x [Automata course](https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ)
 1. x [Stanford Professor](https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH)
