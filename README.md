@@ -122,6 +122,6 @@ Taxonomy taken from [Wikipedia -- Outline of computer science](https://en.wikipe
 CR -- Classical reference
 CE -- Cutting edge
 
-- -- Book
-x -- Video course
-+ -- Online course
+- - -- Book
+- x -- Video course
+- + -- Online course
