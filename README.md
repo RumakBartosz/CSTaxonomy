@@ -93,7 +93,7 @@
 
 # Theory of computation
 
-    ## Automata theory
+## Automata theory
         - Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
         - Introduction to the Theory of Computation 2nd Edition 
         x https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ -- Automata course
@@ -101,16 +101,16 @@
         + http://users.utu.fi/jkari/automata/ -- Notes/Syllabus/Homework
         
         
-    ## Computability theory
+## Computability theory
         - Introduction to Computability Theory by Dag Normann -- https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf
         - Computability Theory by Cooper
 
 
-    ## Computational complexity theory 
+## Computational complexity theory 
 
         
 
-    ## Quantum computing theory
+## Quantum computing theory
 
 
 
