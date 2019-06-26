@@ -1,94 +1,95 @@
 # Mathematical foundations
 
 ### Coding theory 
-    Game theory 
-    Graph theory 
-    Mathematical logic 
-    Number theory 
+### Game theory 
+### Graph theory 
+### Mathematical logic 
+### Number theory 
 
 
 # Algorithms and data structures
 
-    Algorithms 
-    Data structures
+### Algorithms 
+### Data structures
 
 
 # Artificial intelligence
 
-    Artificial intelligence
-    Automated reasoning
-    Computer vision
+### Artificial intelligence
+### Automated reasoning
+### Computer vision
 
-    Soft computing, the use of inexact solutions for otherwise extremely difficult problems:
-        Machine learning
-        Evolutionary computing
+### Soft computing, the use of inexact solutions for otherwise extremely difficult problems:
 
-    Natural language processing
-    Robotics
+#### Machine learning
+#### Evolutionary computing
+
+### Natural language processing
+### Robotics
 
 
 # Communication and security
 
-    Networking
-    Computer security
-    Cryptography
+### Networking
+### Computer security
+### Cryptography
 
 
 # Computer architecture
 
-    Computer architecture
-    Operating systems
+### Computer architecture
+### Operating systems
 
 
 # Computer graphics
 
-    Computer graphics
-    Image processing
-    Information visualization
+### Computer graphics
+### Image processing
+### Information visualization
 
 
 # Concurrent, parallel, and distributed systems
 
-    Parallel computing
-    Concurrency (computer science)
-    Distributed computing 
+### Parallel computing
+### Concurrency (computer science)
+### Distributed computing 
 
 
 # Databases
 
-    Relational databases 
-    Structured Storage 
-    Data mining
+### Relational databases 
+### Structured Storage 
+### Data mining
 
 
 # Programming languages and compilers
 
-    Compiler theory 
-    Programming language pragmatics
-    Programming language theory
-    Formal semantics
-    Type theory
+### Compiler theory 
+### Programming language pragmatics
+### Programming language theory
+### Formal semantics
+### Type theory
 
 
 # Scientific computing
 
-    Computational science
-    Numerical analysis
-    Symbolic computation 
-    Computational physics 
-    Computational chemistry 
-    Bioinformatics and Computational biology
-    Computational neuroscience
+### Computational science
+### Numerical analysis
+### Symbolic computation 
+### Computational physics 
+### Computational chemistry 
+### Bioinformatics and Computational biology
+### Computational neuroscience
 
 
 # Software engineering
 
-    Formal methods 
-    Software engineering 
-    Algorithm design 
-    Computer programming
-    Human–computer interaction
-    Reverse engineering
+### Formal methods 
+### Software engineering 
+### Algorithm design 
+### Computer programming
+### Human–computer interaction
+### Reverse engineering
 
 
 # Theory of computation
