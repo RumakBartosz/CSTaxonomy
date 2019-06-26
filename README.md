@@ -95,16 +95,16 @@
 # Theory of computation
 
 ### Automata theory
-- Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
-- Introduction to the Theory of Computation 2nd Edition 
-x [Automata course](https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ)
-x [Stanford Professor](https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH)
-+ [Notes/Syllabus/Homework](http://users.utu.fi/jkari/automata/)
+1. - Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
+1. - Introduction to the Theory of Computation 2nd Edition 
+1. x [Automata course](https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ)
+1. x [Stanford Professor](https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH)
+1. + [Notes/Syllabus/Homework](http://users.utu.fi/jkari/automata/)
         
         
 ### Computability theory
-- [Introduction to Computability Theory by Dag Normann](https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf)
-- Computability Theory by Cooper
+1. - [Introduction to Computability Theory by Dag Normann](https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf)
+1. - Computability Theory by Cooper
 
 
 ### Computational complexity theory 
