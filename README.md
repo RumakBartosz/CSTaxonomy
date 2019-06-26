@@ -1,6 +1,6 @@
 # Mathematical foundations
 
-    Coding theory 
+### Coding theory 
     Game theory 
     Graph theory 
     Mathematical logic 
@@ -93,24 +93,24 @@
 
 # Theory of computation
 
-## Automata theory
-        - Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
-        - Introduction to the Theory of Computation 2nd Edition 
-        x https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ -- Automata course
-        x https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH -- Stanford Professor
-        + http://users.utu.fi/jkari/automata/ -- Notes/Syllabus/Homework
+### Automata theory
+- Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
+- Introduction to the Theory of Computation 2nd Edition 
+x https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ -- Automata course
+x https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH -- Stanford Professor
++ http://users.utu.fi/jkari/automata/ -- Notes/Syllabus/Homework
         
         
-## Computability theory
-        - Introduction to Computability Theory by Dag Normann -- https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf
-        - Computability Theory by Cooper
+### Computability theory
+- Introduction to Computability Theory by Dag Normann -- https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf
+- Computability Theory by Cooper
 
 
-## Computational complexity theory 
+### Computational complexity theory 
 
         
 
-## Quantum computing theory
+### Quantum computing theory
 
 
 
