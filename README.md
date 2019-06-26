@@ -95,8 +95,8 @@
 # Theory of computation
 
 ### Automata theory
-1. :blue_book: Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
-1. :blue_book: Introduction to the Theory of Computation 2nd Edition 
+1. :blue_book: [Introduction to Automata Theory, Languages, and Computation](https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation)
+1. :blue_book: [Introduction to the Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
 1. :tv: [Automata course](https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ)
 1. :tv: [Stanford Professor](https://www.youtube.com/watch?v=Z6dbMNCCNKI&list=PLgWps_ygaG8G55SD2JkDkDrZnSzjAaswH)
 1. :mortar_board: [Notes/Syllabus/Homework](http://users.utu.fi/jkari/automata/)
@@ -104,7 +104,7 @@
 
 ### Computability theory
 1. :blue_book: [Introduction to Computability Theory by Dag Normann](https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf)
-1. :blue_book: Computability Theory by Cooper
+1. :blue_book: [Computability Theory by Cooper](https://www.goodreads.com/book/show/2366835.Computability_Theory)
 
 
 ### Computational complexity theory 
