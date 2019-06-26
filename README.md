@@ -1,10 +1,10 @@
 # Mathematical foundations
 
-    Coding theory – Useful in networking and other areas where computers communicate with each other.
-    Game theory – Useful in artificial intelligence and cybernetics.
-    Graph theory – Foundations for data structures and searching algorithms.
-    Mathematical logic – Boolean logic and other ways of modeling logical queries; the uses and limitations of formal proof methods
-    Number theory – Theory of the integers. Used in cryptography as well as a test domain in artificial intelligence.
+    1. Coding theory – Useful in networking and other areas where computers communicate with each other.
+    1. Game theory – Useful in artificial intelligence and cybernetics.
+    1. Graph theory – Foundations for data structures and searching algorithms.
+    1. Mathematical logic – Boolean logic and other ways of modeling logical queries; the uses and limitations of formal proof methods
+    1. Number theory – Theory of the integers. Used in cryptography as well as a test domain in artificial intelligence.
 
 
 Algorithms and data structures
