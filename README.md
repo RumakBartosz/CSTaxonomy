@@ -1,100 +1,99 @@
 # Mathematical foundations
 
-    1. Coding theory – Useful in networking and other areas where computers communicate with each other.
-    1. Game theory – Useful in artificial intelligence and cybernetics.
-    1. Graph theory – Foundations for data structures and searching algorithms.
-    1. Mathematical logic – Boolean logic and other ways of modeling logical queries; the uses and limitations of formal proof methods
-    1. Number theory – Theory of the integers. Used in cryptography as well as a test domain in artificial intelligence.
+    1. Coding theory 
+    1. Game theory 
+    1. Graph theory 
+    1. Mathematical logic 
+    1. Number theory 
 
 
 Algorithms and data structures
 
-    Algorithms – Sequential and parallel computational procedures for solving a wide range of problems.
-    Data structures – The organization and manipulation of data.
+    Algorithms 
+    Data structures
 
 
 Artificial intelligence
 
-    Artificial intelligence – The implementation and study of systems that exhibit an autonomous intelligence or behavior of their own.
-    Automated reasoning – Solving engines, such as used in Prolog, which produce steps to a result given a query on a fact and rule database, and automated theorem provers that aim to prove mathematical theorems with some assistance from a programmer.
-    Computer vision – Algorithms for identifying three-dimensional objects from a two-dimensional picture.
+    Artificial intelligence
+    Automated reasoning
+    Computer vision
 
     Soft computing, the use of inexact solutions for otherwise extremely difficult problems:
-        Machine learning - Automated creation of a set of rules and axioms based on input.
-        Evolutionary computing - Biologically inspired algorithms.
+        Machine learning
+        Evolutionary computing
 
-    Natural language processing - Building systems and algorithms that analyze, understand, and generate natural (human) languages.
-    Robotics – Algorithms for controlling the behaviour of robots.
+    Natural language processing
+    Robotics
 
 
 Communication and security
 
-    Networking – Algorithms and protocols for reliably communicating data across different shared or dedicated media, often including error correction.
-    Computer security – Practical aspects of securing computer systems and computer networks.
-    Cryptography – Applies results from complexity, probability, algebra and number theory to invent and break codes, and analyze the security of cryptographic protocols.
+    Networking
+    Computer security
+    Cryptography
 
 
 Computer architecture
 
-    Computer architecture – The design, organization, optimization and verification of a computer system, mostly about CPUs and Memory subsystem (and the bus connecting them).
-    Operating systems – Systems for managing computer programs and providing the basis of a usable system.
+    Computer architecture
+    Operating systems
 
 
 Computer graphics
 
-    Computer graphics – Algorithms both for generating visual images synthetically, and for integrating or altering visual and spatial information sampled from the real world.
-    Image processing – Determining information from an image through computation.
-    Information visualization – Methods for representing and displaying abstract data to facilitate human interaction for exploration and understanding.
+    Computer graphics
+    Image processing
+    Information visualization
 
 
 Concurrent, parallel, and distributed systems
 
-    Parallel computing - The theory and practice of simultaneous computation; data safety in any multitasking or multithreaded environment.
-    Concurrency (computer science) – Computing using multiple concurrent threads of execution, devising algorithms for solving problems on multiple processors to achieve maximal speed-up compared to sequential execution.
-    Distributed computing – Computing using multiple computing devices over a network to accomplish a common objective or task and thereby reducing the latency involved in single processor contributions for any task.
+    Parallel computing
+    Concurrency (computer science)
+    Distributed computing 
 
 
 Databases
 
-    Relational databases – the set theoretic and algorithmic foundation of databases.
-    Structured Storage - non-relational databases such as NoSQL databases.
-    Data mining – Study of algorithms for searching and processing information in documents and databases; closely related to information retrieval.
+    Relational databases 
+    Structured Storage 
+    Data mining
 
 
 Programming languages and compilers
 
-    Compiler theory – Theory of compiler design, based on Automata theory.
-    Programming language pragmatics – Taxonomy of programming languages, their strength and weaknesses. Various programming paradigms, such as object-oriented programming.
+    Compiler theory 
+    Programming language pragmatics
     Programming language theory
-    Formal semantics – rigorous mathematical study of the meaning of programs.
-    Type theory – Formal analysis of the types of data, and the use of these types to understand properties of programs — especially program safety.
+    Formal semantics
+    Type theory
 
 
 Scientific computing
 
-    Computational science – constructing mathematical models and quantitative analysis techniques and using computers to analyze and solve scientific problems.
-    Numerical analysis – Approximate numerical solution of mathematical problems such as root-finding, integration, the solution of ordinary differential equations; the approximation of special functions.
-    Symbolic computation – Manipulation and solution of expressions in symbolic form, also known as Computer algebra.
-    Computational physics – Numerical simulations of large non-analytic systems
-    Computational chemistry – Computational modelling of theoretical chemistry in order to determine chemical structures and properties
-    Bioinformatics and Computational biology – The use of computer science to maintain, analyse, store biological data and to assist in solving biological problems such as Protein folding, function prediction and Phylogeny.
-    Computational neuroscience – Computational modelling of neurophysiology.
+    Computational science
+    Numerical analysis
+    Symbolic computation 
+    Computational physics 
+    Computational chemistry 
+    Bioinformatics and Computational biology
+    Computational neuroscience
 
 
 Software engineering
 
-    Formal methods – Mathematical approaches for describing and reasoning about software design.
-
-    Software engineering – The principles and practice of designing, developing, and testing programs, as well as proper engineering practices.
-    Algorithm design – Using ideas from algorithm theory to creatively design solutions to real tasks.
-    Computer programming – The practice of using a programming language to implement algorithms.
-    Human–computer interaction – The study and design of computer interfaces that people use.
-    Reverse engineering – The application of the scientific method to the understanding of arbitrary existing software.
+    Formal methods 
+    Software engineering 
+    Algorithm design 
+    Computer programming
+    Human–computer interaction
+    Reverse engineering
 
 
 Theory of computation
 
-    Automata theory – Different logical structures for solving problems.
+    Automata theory
         - Introduction to Automata Theory, Languages, and Computation (3rd Edition) (2006) (CR)
         - Introduction to the Theory of Computation 2nd Edition 
         x https://www.youtube.com/watch?v=HyUK5RAJg1c&list=PLK_sH5jbkYciCyOTllsGyHVcHErHhtnZZ -- Automata course
@@ -102,20 +101,20 @@ Theory of computation
         + http://users.utu.fi/jkari/automata/ -- Notes/Syllabus/Homework
         
         
-    Computability theory – What is calculable with the current models of computers. Proofs developed by Alan Turing and others provide insight into the possibilities of what may be computed and what may not. 
+    Computability theory
         - Introduction to Computability Theory by Dag Normann -- https://www.mn.uio.no/math/tjenester/kunnskap/kompendier/comptheory.pdf
         - Computability Theory by Cooper
 
 
-    Computational complexity theory – Fundamental bounds (especially time and storage space) on classes of computations.
+    Computational complexity theory 
 
         
 
-    Quantum computing theory – Explores computational models involving quantum superposition of bits.
+    Quantum computing theory
 
 
 
-Taxonomy taken from Wikipedia -- Outline of computer science
+Taxonomy taken from [Wikipedia -- Outline of computer science](https://en.wikipedia.org/wiki/Outline_of_computer_science)
 
 
 
