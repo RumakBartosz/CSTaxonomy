@@ -1,4 +1,4 @@
-Mathematical foundations
+# Mathematical foundations
 
     Coding theory – Useful in networking and other areas where computers communicate with each other.
     Game theory – Useful in artificial intelligence and cybernetics.
