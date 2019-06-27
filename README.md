@@ -108,8 +108,8 @@
 
 
 ### Computational complexity theory 
-
-        
+1. :blue_book: [Computational Complexity by Christos H. Papadimitriou](https://www.goodreads.com/en/book/show/138562)
+1. :blue_book: [ The Nature of Computation by Cristopher Moore](https://www.goodreads.com/en/book/show/3043127-the-nature-of-computation)
 
 ### Quantum computing theory
 
