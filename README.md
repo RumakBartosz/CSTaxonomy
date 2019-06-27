@@ -112,7 +112,9 @@
 1. :blue_book: [ The Nature of Computation by Cristopher Moore](https://www.goodreads.com/en/book/show/3043127-the-nature-of-computation)
 
 ### Quantum computing theory
-
+1. :blue_book: [Quantum Computation and Quantum Information by Michael A. Nielsen](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information)
+1. :mortar_board: [Berkeley CS191](https://inst.eecs.berkeley.edu/~cs191/fa14/)
+1. :mortar_board: [Caltech CS219 John Preskill](http://www.theory.caltech.edu/~preskill/ph219/index.html)
 
 
 Taxonomy taken from [Wikipedia -- Outline of computer science](https://en.wikipedia.org/wiki/Outline_of_computer_science)
