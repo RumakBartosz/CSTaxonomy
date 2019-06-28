@@ -5,6 +5,11 @@
 ### Graph theory 
 ### Mathematical logic 
 ### Number theory 
+1. :blue_book: [An Introduction to the Theory of Numbers 6th Edition](https://www.amazon.com/Introduction-Theory-Numbers-G-Hardy/dp/0199219869)
+1. :blue_book: [A Classical Introduction to Modern Number Theory](https://www.goodreads.com/book/show/585557.A_Classical_Introduction_to_Modern_Number_Theory_Graduate_Texts_in_Mathematics_)
+1. :mortar_board: [Algebraic Number Theory (Fall 2012) by Ted Chinburg Math702](https://www.math.upenn.edu/~ted/702F12/math702.html)
+1. :mortar_board: [Algebraic Number Theory (Spring 2013) by Ted Chinburg Math703](https://www.math.upenn.edu/~ted/703S13/math703.html)
+
 
 
 # Algorithms and data structures
