@@ -60,6 +60,12 @@
 # Computer architecture
 
 ### Computer architecture
+
+1. :blue_book: [Computer Architecture: A Quantitative Approachby John L. Hennessy,David A. Patterson](https://www.goodreads.com/book/show/70135.Computer_Architecture)
+1. :blue_book: [Modern Processor Design: Fundamentals of Superscalar Processors by John P. Shen](https://www.goodreads.com/en/book/show/2913411-modern-processor-design)
+1. :tv: [Computer Architecture MIT 6.004 2015](https://www.youtube.com/watch?v=s7svpXgxk1U&list=PLWokBk9W7kzGqZYZz6BiaqtsrHQK_22u7)
+1. :mortar_board: [6.823 Computer System Architecture - Spring 2019](http://csg.csail.mit.edu/6.823/index.html)
+
 ### Operating systems
 
 
