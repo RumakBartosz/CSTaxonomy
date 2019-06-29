@@ -36,6 +36,12 @@
 # Communication and security
 
 ### Networking
+
+1. :blue_book: [Computer Networking: A Top-Down Approach by James F. Kurose, Keith W. Ross](https://www.goodreads.com/book/show/83847.Computer_Networking)
+1. :blue_book: [TCP/IP Illustrated – Richard Stevens](https://www.goodreads.com/book/show/9176515-tcp-ip-illustrated-volume-1)
+1. :tv: [Stanford CS144](https://www.youtube.com/watch?v=-nciJGUPyAM&list=PLK5LBGAqhW7_FNgTSY4UIB58ZEVao13IY&index=1)
+1. :mortar_board: [Stanford CS144](http://www.scs.stanford.edu/10au-cs144/)
+
 ### Computer security
 ### Cryptography
 
