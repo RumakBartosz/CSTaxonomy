@@ -51,6 +51,11 @@
 
 ### Cryptography
 
+1. :blue_book: [Applied Cryptography: Protocols, Algorithms, and Source Code in C by Bruce Schneier](https://www.goodreads.com/book/show/351301.Applied_Cryptography)
+1. :blue_book: [Cryptography: Theory and Practice (Discrete Mathematics and Its Applications)](https://www.goodreads.com/book/show/259454.Cryptography)
+1. :tv: [MIT 6.875 (Cryptography), Spring 2018](https://www.youtube.com/watch?v=jDsfV2ohFPs&list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+1. :mortar_board: [Dan Boneh, Stanford University](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
+
 
 # Computer architecture
 
@@ -134,12 +139,10 @@
 1. :mortar_board: [Caltech CS219 John Preskill](http://www.theory.caltech.edu/~preskill/ph219/index.html)
 
 
+
+
+
 Taxonomy taken from [Wikipedia -- Outline of computer science](https://en.wikipedia.org/wiki/Outline_of_computer_science)
-
-
-
-CR -- Classical reference
-CE -- Cutting edge
 
 - :blue_book: -- Book
 - :tv: -- Video course
