@@ -43,6 +43,12 @@
 1. :mortar_board: [Stanford CS144](http://www.scs.stanford.edu/10au-cs144/)
 
 ### Computer security
+
+1. :blue_book: [Hacking Exposed: Network Security Secrets & Solutions by Joel Scambray, Stuart McClure, George Kurtz](https://www.goodreads.com/book/show/205816.Hacking_Exposed#)
+1. :blue_book: [Hacking: The Art of Exploitation by Jon Erickson](https://www.goodreads.com/book/show/61619.Hacking?ac=1&from_search=true)
+1. :tv: [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+1. :mortar_board: [MIT 6.858 Computer Systems Security, Fall 2014](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
+
 ### Cryptography
 
 
