@@ -80,6 +80,12 @@
 1. :mortar_board: [CS 148 Introduction to Computer Graphics and Imaging (Fall 2018)](http://web.stanford.edu/class/cs148/)
 
 ### Image processing
+
+1. :blue_book: [Digital Image Processing by Rafael C. Gonzalez](https://www.goodreads.com/book/show/196018.Digital_Image_Processing)
+1. :blue_book: [ The Image Processing Handbookby John C. Russ](https://www.goodreads.com/book/show/2351163.The_Image_Processing_Handbook)
+1. :mortar_board: [ EE368/CS232 Digital Image Processing ](https://web.stanford.edu/class/ee368/handouts.html)
+
+
 ### Information visualization
 
 
