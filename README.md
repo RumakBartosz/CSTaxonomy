@@ -82,12 +82,14 @@
 ### Image processing
 
 1. :blue_book: [Digital Image Processing by Rafael C. Gonzalez](https://www.goodreads.com/book/show/196018.Digital_Image_Processing)
-1. :blue_book: [ The Image Processing Handbookby John C. Russ](https://www.goodreads.com/book/show/2351163.The_Image_Processing_Handbook)
+1. :blue_book: [ The Image Processing Handbook by John C. Russ](https://www.goodreads.com/book/show/2351163.The_Image_Processing_Handbook)
 1. :mortar_board: [ EE368/CS232 Digital Image Processing ](https://web.stanford.edu/class/ee368/handouts.html)
-
 
 ### Information visualization
 
+1. :blue_book: [ The Visual Display of Quantitative Information by Edward R. Tufte](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information#)
+1. :blue_book: [ Data Visualization: A Practical Introduction by Kieran Healy](https://www.goodreads.com/en/book/show/39964443-data-visualization)
+1. :mortar_board: [How to Process, Analyze and Visualize Data MIT](https://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/)
 
 # Concurrent, parallel, and distributed systems
 
