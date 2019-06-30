@@ -74,7 +74,7 @@
 ### Computer graphics
 
 1. :blue_book: [Computer Graphics: Principles and Practice by James D. Foley](https://www.goodreads.com/book/show/603227.Computer_Graphics)
-1. :blue_book: [OpenGL(R) Programming Guide: The Official Guide to Learning OpenGL(R), Version 2.1](https://www.goodreads.com/book/show/19810834-opengl-r-programming-guide)
+1. :blue_book: [ Real-Time Rendering by Tomas Akenine-Möller](https://www.goodreads.com/en/book/show/3610698-real-time-rendering)
 1. :blue_book: [https://www.goodreads.com/book/show/8981752-physically-based-rendering](https://www.goodreads.com/book/show/8981752-physically-based-rendering)
 1. :tv: [MIT 6.837 | Computer Graphics | Spring 2017](https://www.youtube.com/watch?v=E1-_15Vfddk&list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt)
 1. :mortar_board: [CS 148 Introduction to Computer Graphics and Imaging (Fall 2018)](http://web.stanford.edu/class/cs148/)
