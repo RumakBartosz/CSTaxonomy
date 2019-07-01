@@ -21,12 +21,18 @@
 # Artificial intelligence
 
 ### Artificial intelligence
+
+1. :blue_book: [ Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
+
 ### Automated reasoning
 ### Computer vision
 
 ### Soft computing, the use of inexact solutions for otherwise extremely difficult problems:
 
 #### Machine learning
+
+1. :blue_book: [ The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Robert Tibshirani](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)
+
 #### Evolutionary computing
 
 ### Natural language processing
