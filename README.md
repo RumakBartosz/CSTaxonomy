@@ -116,8 +116,17 @@
 
 ### Structured Storage 
 
+1. :blue_book: [Getting Started with NoSQL by Gaurav Vaish](https://www.goodreads.com/en/book/show/17716162-getting-started-with-nosql)
+1. :blue_book: [Professional NoSQL by Shashank Tiwari](https://www.goodreads.com/en/book/show/11930906-professional-nosql)
+1. :blue_book: [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (Paper)
+
 
 ### Data mining
+
+1. :blue_book: [Introduction to Data Mining by Vipin Kumar, Michael Steinbach](https://www.goodreads.com/book/show/1233968.Introduction_to_Data_Mining)
+1. :blue_book: [ Data Mining: The Textbook by Charu C. Aggarwal](https://www.goodreads.com/en/book/show/25493713-data-mining)
+1. :tv: [Utah CS 5140 Data Mining](https://www.youtube.com/watch?v=iHSkk1dXjLI&list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB&index=2)
+1. :mortar_board: [Utah CS 5140 Data Mining](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html)
 
 
 # Programming languages and compilers
