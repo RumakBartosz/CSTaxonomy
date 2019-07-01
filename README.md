@@ -108,7 +108,15 @@
 # Databases
 
 ### Relational databases 
+
+1. :blue_book: [Foundations of Databases: The Logical Level by Richard G. Hull](https://www.goodreads.com/en/book/show/872973.Foundations_of_Databases)
+1. :blue_book: [SQL Cookbook by Anthony Molinaro](https://www.goodreads.com/book/show/43238.SQL_Cookbook)
+1. :tv: [Stanford CS145 Introduction to Databases](https://www.youtube.com/watch?v=D-k-h0GuFmE&list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0)
+1. :mortar_board: [Stanford CS145 Introduction to Databases](https://cs.stanford.edu/people/widom/cs145/)
+
 ### Structured Storage 
+
+
 ### Data mining
 
 
