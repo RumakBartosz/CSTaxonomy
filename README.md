@@ -5,6 +5,7 @@
 1. :blue_book: [Information Theory, Inference and Learning Algorithms by David J.C. MacKay](https://www.goodreads.com/book/show/201357.Information_Theory_Inference_and_Learning_Algorithms)
 1. :blue_book: [Algebraic Coding Theory by Elwyn R. Berlekamp](https://www.goodreads.com/book/show/1511079.Algebraic_Coding_Theory)
 1. :mortar_board: [Essential Coding Theory MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
+1. :mortar_board: [Harvard CS 229r: Essential Coding Theory (Spring 2017)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2017/)
 
 
 ### Game theory 
