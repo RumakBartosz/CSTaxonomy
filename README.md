@@ -24,6 +24,9 @@
 
 ### Data structures
 
+1. :blue_book: [ Data Structure Using C & C++ by Aaron M. Tenebaum](https://www.goodreads.com/book/show/6762769-data-structure-using-c-c)
+1. :mortar_board: [MCS 360: Introduction to Data Structures ](http://homepages.math.uic.edu/~jan/mcs360s03/)
+1. :mortar_board: [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/fall17/)
 
 # Artificial intelligence
 
