@@ -4,6 +4,7 @@
 ### Game theory 
 ### Graph theory 
 ### Mathematical logic 
+
 ### Number theory 
 1. :blue_book: [An Introduction to the Theory of Numbers 6th Edition](https://www.amazon.com/Introduction-Theory-Numbers-G-Hardy/dp/0199219869)
 1. :blue_book: [A Classical Introduction to Modern Number Theory](https://www.goodreads.com/book/show/585557.A_Classical_Introduction_to_Modern_Number_Theory_Graduate_Texts_in_Mathematics_)
@@ -15,6 +16,12 @@
 # Algorithms and data structures
 
 ### Algorithms 
+
+1. :blue_book: [Introduction to Algorithms by Thomas H. Cormen](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
+1. :blue_book: [Algorithms by Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh Vazirani](https://www.goodreads.com/book/show/138563.Algorithms)
+1. :blue_book: [The Art of Computer Programming, Volumes 1-3](https://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
+1. :mortar_board: [Introduction to Algorithms (SMA 5503) MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/index.htm)
+
 ### Data structures
 
 
