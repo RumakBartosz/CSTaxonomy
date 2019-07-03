@@ -132,7 +132,7 @@
 1. :blue_book: [ Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum](https://www.goodreads.com/book/show/405614.Distributed_Systems)
 1. :tv: [CS 436: Distributed Computer Systems Waterloo](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 1. :mortar_board: [CSE 552 – Distributed systems](https://courses.cs.washington.edu/courses/cse552/07sp/)
-1. :newspaper [Readings in distributed systems](https://henryr.github.io/distributed-systems-readings/)
+1. :newspaper: [Readings in distributed systems](https://henryr.github.io/distributed-systems-readings/)
 
 # Databases
 
@@ -242,4 +242,4 @@ Taxonomy taken from [Wikipedia — Outline of computer science](https://en.wikip
 - :blue_book: — Book
 - :tv: — Video course
 - :mortar_board: — Online course
-- :newspaper: - Other
+- :newspaper: — Other
