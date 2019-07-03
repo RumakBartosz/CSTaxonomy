@@ -166,8 +166,18 @@
 1. :mortar_board: [G22.2110-001 Programming Languages NYU](https://cs.nyu.edu/rgrimm/teaching/sp10-pl/)
 
 ### Programming language theory
+
+
 ### Formal semantics
+
+
 ### Type theory
+
+1. :blue_book: [ Types and Programming Languages by Benjamin C. Pierce](https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages)
+1. :blue_book: [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
+1. :mortar_board: [Logic, Languages, Compilation, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+1. :mortar_board: [15-317 Constructive LogicSchedule](https://www.cs.cmu.edu/~fp/courses/15317-f09/schedule.html)
+- based on [So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 
 
 # Scientific computing
