@@ -118,14 +118,21 @@
 1. :blue_book: [ The Visual Display of Quantitative Information by Edward R. Tufte](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information#)
 1. :blue_book: [ Data Visualization: A Practical Introduction by Kieran Healy](https://www.goodreads.com/en/book/show/39964443-data-visualization)
 1. :mortar_board: [How to Process, Analyze and Visualize Data MIT](https://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/)
-- (?)
+- (?!)
 
 # Concurrent, parallel, and distributed systems
 
 ### Parallel computing
 ### Concurrency (computer science)
+
+
 ### Distributed computing 
 
+1. :blue_book: [ Designing Data-Intensive Applications by Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+1. :blue_book: [ Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum](https://www.goodreads.com/book/show/405614.Distributed_Systems)
+1. :tv: [CS 436: Distributed Computer Systems Waterloo](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
+1. :mortar_board: [CSE 552 – Distributed systems](https://courses.cs.washington.edu/courses/cse552/07sp/)
+1. :newspaper [Readings in distributed systems](https://henryr.github.io/distributed-systems-readings/)
 
 # Databases
 
@@ -140,7 +147,8 @@
 
 1. :blue_book: [Getting Started with NoSQL by Gaurav Vaish](https://www.goodreads.com/en/book/show/17716162-getting-started-with-nosql)
 1. :blue_book: [Professional NoSQL by Shashank Tiwari](https://www.goodreads.com/en/book/show/11930906-professional-nosql)
-1. :blue_book: [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (Paper)
+1. :newspaper: [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+- (?)
 
 
 ### Data mining
@@ -177,7 +185,7 @@
 1. :blue_book: [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 1. :mortar_board: [Logic, Languages, Compilation, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 1. :mortar_board: [15-317 Constructive LogicSchedule](https://www.cs.cmu.edu/~fp/courses/15317-f09/schedule.html)
-- based on [So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
+1. :newspaper: based on [So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 
 
 # Scientific computing
@@ -229,8 +237,9 @@
 
 
 
-Taxonomy taken from [Wikipedia -- Outline of computer science](https://en.wikipedia.org/wiki/Outline_of_computer_science)
+Taxonomy taken from [Wikipedia — Outline of computer science](https://en.wikipedia.org/wiki/Outline_of_computer_science)
 
-- :blue_book: -- Book
-- :tv: -- Video course
-- :mortar_board: -- Online course
+- :blue_book: — Book
+- :tv: — Video course
+- :mortar_board: — Online course
+- :newspaper: - Other
