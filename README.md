@@ -8,6 +8,12 @@
 1. :mortar_board: [Harvard CS 229r: Essential Coding Theory (Spring 2017)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2017/)
 
 ### Game theory 
+
+1. :blue_book: [Essentials of Game Theory: A Concise, Multidisciplinary Introduction by Kevin Leyton-Brown, Yoav Shoham](https://www.goodreads.com/book/show/4253377-essentials-of-game-theory)
+1. :blue_book: [Game Theory by Guillermo Owen](https://www.goodreads.com/book/show/469850.Game_Theory)
+1. :tv: [Game Theory with Ben Polak Yale](https://www.youtube.com/watch?v=nM3rTU927io&list=PL6EF60E1027E1A10B)
+1. :mortar_board: [MIT 4.12 Economic Applications of Game Theory Fall 2002](http://web.mit.edu/14.12/www/)
+
 ### Graph theory 
 ### Mathematical logic 
 
