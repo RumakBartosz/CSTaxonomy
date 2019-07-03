@@ -7,7 +7,6 @@
 1. :mortar_board: [Essential Coding Theory MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
 1. :mortar_board: [Harvard CS 229r: Essential Coding Theory (Spring 2017)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2017/)
 
-
 ### Game theory 
 ### Graph theory 
 ### Mathematical logic 
@@ -155,6 +154,11 @@
 # Programming languages and compilers
 
 ### Compiler theory 
+
+1. :blue_book: [ Engineering a Compiler by Keith D. Cooper, Linda Torczon](https://www.goodreads.com/book/show/1997607.Engineering_a_Compiler)
+1. :blue_book: [ Compilers: Principles, Techniques, and Tools by Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman](https://www.goodreads.com/book/show/703102.Compilers)
+1. :mortar_board: [ Compilers CS1 - SELF PACED ](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+
 ### Programming language pragmatics
 ### Programming language theory
 ### Formal semantics
