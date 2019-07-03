@@ -17,6 +17,10 @@
 ### Graph theory 
 ### Mathematical logic 
 
+1. :blue_book: [Introduction to Mathematical Logic by Elliott Mendelson](https://www.goodreads.com/book/show/250868.Introduction_to_Mathematical_Logic)
+1. :blue_book: [Mathematical Logic by Joseph R. Shoenfield](https://www.goodreads.com/book/show/2004540.Mathematical_Logic)
+1. :mortar_board: [CS 157 Introduction to Logic Stanford](https://www.coursera.org/learn/logic-introduction)
+
 ### Number theory 
 1. :blue_book: [An Introduction to the Theory of Numbers 6th Edition](https://www.amazon.com/Introduction-Theory-Numbers-G-Hardy/dp/0199219869)
 1. :blue_book: [A Classical Introduction to Modern Number Theory](https://www.goodreads.com/book/show/585557.A_Classical_Introduction_to_Modern_Number_Theory_Graduate_Texts_in_Mathematics_)
