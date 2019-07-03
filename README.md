@@ -160,6 +160,11 @@
 1. :mortar_board: [ Compilers CS1 - SELF PACED ](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
 ### Programming language pragmatics
+
+1. :blue_book: [ Programming Language Pragmatics by Michael L. Scott](https://www.goodreads.com/book/show/89197.Programming_Language_Pragmatics)
+1. :tv: [Dr.S.Arun Kumar Delhi](https://www.youtube.com/watch?v=EbNJ05EVXs0&list=PLF7C73918190889CE)
+1. :mortar_board: [G22.2110-001 Programming Languages NYU](https://cs.nyu.edu/rgrimm/teaching/sp10-pl/)
+
 ### Programming language theory
 ### Formal semantics
 ### Type theory
