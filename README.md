@@ -15,6 +15,11 @@
 1. :mortar_board: [MIT 4.12 Economic Applications of Game Theory Fall 2002](http://web.mit.edu/14.12/www/)
 
 ### Graph theory 
+
+1. :blue_book: [Graph Theory by Reinhard Diestel](https://www.goodreads.com/book/show/388052.Graph_Theory)
+1. :blue_book: [Graph Theory by Bondy, Murty](https://www.springer.com/gp/book/9781846289699)
+1. :mortar_board: [Mathematics for Computer Science MIT 6.042J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (Lectures 6-11)
+
 ### Mathematical logic 
 
 1. :blue_book: [Introduction to Mathematical Logic by Elliott Mendelson](https://www.goodreads.com/book/show/250868.Introduction_to_Mathematical_Logic)
