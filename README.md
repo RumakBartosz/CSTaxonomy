@@ -70,6 +70,11 @@
 1. :mortar_board: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 ### Natural language processing
+
+1. :blue_book: [ Foundations of Statistical Natural Language Processing by Christopher D. Manning, Hinrich Schütze](https://www.goodreads.com/book/show/776349.Foundations_of_Statistical_Natural_Language_Processing)
+1. :blue_book: [Speech and Language Processing by Dan Jurafsky, James H. Martin](https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing)
+1. :mortar_board: [Stanford CS 224N](http://web.stanford.edu/class/cs224n/)
+
 ### Robotics
 
 # Soft computing
