@@ -54,6 +54,7 @@
 ### Artificial intelligence
 
 1. :blue_book: [ Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
+1. :mortar_board: [MIT’s 6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 
 ### Automated reasoning
 ### Computer vision
