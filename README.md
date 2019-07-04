@@ -77,6 +77,10 @@
 
 ### Robotics
 
+1. :blue_book: [ Modern Robotics: Mechanics, Planning, and Control by Frank C. Park, Kevin M. Lynch](https://www.goodreads.com/book/show/27888779-modern-robotics)
+1. :blue_book: [Programming Robots with ROS by Morgan Quigley, Brian Gerkey, William D. Smart](https://www.goodreads.com/book/show/25801530-programming-robots-with-ros)
+1. :tv: [Introduction to Robotics (CS223A) Stanford ](https://www.youtube.com/watch?v=0yD3uBshJB0&list=PL65CC0384A1798ADF)
+
 # Soft computing
 
 ### Machine learning
