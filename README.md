@@ -57,18 +57,28 @@
 1. :mortar_board: [MIT’s 6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 
 ### Automated reasoning
+
+1. :blue_book: [ Handbook of Practical Logic and Automated Reasoningby John E. Harrison](https://www.goodreads.com/book/show/7475215-handbook-of-practical-logic-and-automated-reasoning)
+1. :blue_book: [Handbook of Automated Reasoning](https://mitpress.mit.edu/books/handbook-automated-reasoning-volume-1)
+1. :mortar_board: [MIT 6.822 Formal Reasoning About Programs](https://frap.csail.mit.edu/main)
+1. :newspaper: [The Software Foundations series](https://softwarefoundations.cis.upenn.edu/)
+
 ### Computer vision
 
-### Soft computing, the use of inexact solutions for otherwise extremely difficult problems:
-
-#### Machine learning
-
-1. :blue_book: [ The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Robert Tibshirani](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)
-
-#### Evolutionary computing
+1. :blue_book: [ Computer Vision: Algorithms and Applications by Richard Szeliski](https://www.goodreads.com/en/book/show/9494221-computer-vision)
+1. :blue_book: [ Multiple View Geom Comp Vision by Richard Hartley, Andrew Zisserman](https://www.goodreads.com/book/show/89897.Multiple_View_Geom_Comp_Vision_2ed)
+1. :mortar_board: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 ### Natural language processing
 ### Robotics
+
+# Soft computing
+
+### Machine learning
+
+1. :blue_book: [ The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Robert Tibshirani](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)
+
+### Evolutionary computing
 
 
 # Communication and security
