@@ -241,7 +241,12 @@
 ### Computational physics 
 ### Computational chemistry 
 ### Bioinformatics and Computational biology
+
 ### Computational neuroscience
+
+1. :blue_book: [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems by Peter Dayan, Laurence F. Abbott](https://www.goodreads.com/book/show/170015.Theoretical_Neuroscience)
+1. :blue_book: [ Spiking Neuron Models: Single Neurons, Populations, Plasticity by Wulfram Gerstner, Werner M. Kistler](https://www.goodreads.com/book/show/1205040.Spiking_Neuron_Models)
+1. :newspaper: [Encyclopedia:Computational neuroscience](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
 
 
 # Software engineering
