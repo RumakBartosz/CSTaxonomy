@@ -167,9 +167,11 @@
 
 # Concurrent, parallel, and distributed systems
 
-### Parallel computing
-### Concurrency (computer science)
+### Parallel computing and concurrency
 
+1. :blue_book: [The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
+1. :blue_book: [Topics in Parallel and Distributed Computing: Introducing Concurrency in Undergraduate Courses](https://www.amazon.com/Topics-Parallel-Distributed-Computing-Undergraduate/dp/0128038993)
+1. :mortar_board: [Stanford CS149](http://cs149.stanford.edu/winter19/)
 
 ### Distributed computing 
 
