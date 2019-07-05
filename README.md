@@ -260,6 +260,10 @@
 # Software engineering
 
 ### Formal methods 
+
+1. :blue_book: [Understanding Formal Methods by Monin, Jean-Francois](https://www.springer.com/gp/book/9781852332471)
+1. :mortar_board: [Formal Methods of Software Design an online course by Eric Hehner](http://www.cs.toronto.edu/~hehner/FMSD/)
+
 ### Software engineering 
 ### Algorithm design 
 ### Computer programming
