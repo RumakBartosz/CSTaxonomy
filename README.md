@@ -222,6 +222,10 @@
 
 ### Programming language theory
 
+1. :blue_book: [Concepts in Programming Languages by John C. Mitchell](https://www.goodreads.com/book/show/180317.Concepts_in_Programming_Languages)
+1. :blue_book: [Programming Languages: Concepts and Constructs by Ravi Sethi, Tom  Stone](https://www.goodreads.com/book/show/180319.Programming_Languages)
+1. :mortar_board: [CSCI1730 - Brown CS](http://cs.brown.edu/courses/cs173/2012/Videos/)
+
 
 ### Formal semantics
 
