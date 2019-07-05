@@ -167,9 +167,11 @@
 
 # Concurrent, parallel, and distributed systems
 
-### Parallel computing
-### Concurrency (computer science)
+### Parallel computing and concurrency
 
+1. :blue_book: [The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
+1. :blue_book: [Topics in Parallel and Distributed Computing: Introducing Concurrency in Undergraduate Courses](https://www.amazon.com/Topics-Parallel-Distributed-Computing-Undergraduate/dp/0128038993)
+1. :mortar_board: [Stanford CS149](http://cs149.stanford.edu/winter19/)
 
 ### Distributed computing 
 
@@ -220,9 +222,15 @@
 
 ### Programming language theory
 
+1. :blue_book: [Concepts in Programming Languages by John C. Mitchell](https://www.goodreads.com/book/show/180317.Concepts_in_Programming_Languages)
+1. :blue_book: [Programming Languages: Concepts and Constructs by Ravi Sethi, Tom  Stone](https://www.goodreads.com/book/show/180319.Programming_Languages)
+1. :mortar_board: [CSCI1730 - Brown CS](http://cs.brown.edu/courses/cs173/2012/Videos/)
+
 
 ### Formal semantics
 
+1. :blue_book: [The Formal Semantics of Programming Languages: An Introduction by Glynn Winskel](https://www.goodreads.com/book/show/1322446.The_Formal_Semantics_of_Programming_Languages)
+1. :blue_book: [The Lambda Calculus: Its Syntax and Semantics by Henk Barendregt](https://www.goodreads.com/book/show/2079578.The_Lambda_Calculus)
 
 ### Type theory
 
