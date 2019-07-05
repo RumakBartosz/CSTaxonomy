@@ -225,6 +225,8 @@
 
 ### Formal semantics
 
+1. :blue_book: [The Formal Semantics of Programming Languages: An Introduction by Glynn Winskel](https://www.goodreads.com/book/show/1322446.The_Formal_Semantics_of_Programming_Languages)
+1. :blue_book: [The Lambda Calculus: Its Syntax and Semantics by Henk Barendregt](https://www.goodreads.com/book/show/2079578.The_Lambda_Calculus)
 
 ### Type theory
 
