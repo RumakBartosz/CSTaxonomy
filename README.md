@@ -94,8 +94,10 @@
 1. :blue_book: [ Multi-Objective Optimization Using Evolutionary Algorithmsby Kalyanmoy Deb](https://www.goodreads.com/book/show/3337028-multi-objective-optimization-using-evolutionary-algorithms)
 1. :blue_book: [ Introduction to Evolutionary Computing by A.E. Eiben, J.E. Smith](https://www.goodreads.com/book/show/26505621-introduction-to-evolutionary-computing)
 
-
 ### Reinforcement learning
+
+1. :blue_book: [ Reinforcement Learning: An Introduction by Richard S. Sutton, Andrew G. Barto](https://www.goodreads.com/book/show/739791.Reinforcement_Learning)
+1. :mortar_board: [CS 294-112 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 
 # Communication and security
