@@ -270,6 +270,10 @@
 ### Human–computer interaction
 ### Reverse engineering
 
+1. :blue_book: [Reverse Engineering for Beginners by Dennis Yurichev](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
+1. :blue_book: [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler by Chris Eagle](https://www.goodreads.com/en/book/show/3004460-the-ida-pro-book)
+
+
 
 # Theory of computation
 
