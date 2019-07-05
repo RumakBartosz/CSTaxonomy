@@ -87,7 +87,7 @@
 
 1. :blue_book: [ The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Robert Tibshirani](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)
 1. :blue_book: [ Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.goodreads.com/en/book/show/24072897)
-1. :blue_book: [https://www.goodreads.com/book/show/19148900-understanding-machine-learning](https://www.goodreads.com/book/show/19148900-understanding-machine-learning)
+1. :blue_book: [ Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David](https://www.goodreads.com/book/show/19148900-understanding-machine-learning)
 
 ### Evolutionary computing
 
