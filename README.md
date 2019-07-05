@@ -91,6 +91,9 @@
 
 ### Evolutionary computing
 
+1. :blue_book: [ Multi-Objective Optimization Using Evolutionary Algorithmsby Kalyanmoy Deb](https://www.goodreads.com/book/show/3337028-multi-objective-optimization-using-evolutionary-algorithms)
+1. :blue_book: [ Introduction to Evolutionary Computing by A.E. Eiben, J.E. Smith](https://www.goodreads.com/book/show/26505621-introduction-to-evolutionary-computing)
+
 
 ### Reinforcement learning
 
