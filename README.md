@@ -251,6 +251,10 @@
 1. :mortar_board: [MIT Introduction to Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
 
 ### Symbolic computation 
+
+1. :blue_book: [Computer Algebra and Symbolic Computation: Mathematical Methods by Joel S. Cohen ](https://www.amazon.com/Computer-Algebra-Symbolic-Computation-Mathematical/dp/1568811594)
+1. :blue_book: [Computer Algebra and Symbolic Computation: Elementary Algorithms by Joel S. Cohen ](https://www.amazon.com/Computer-Algebra-Symbolic-Computation-Elementary/dp/1568811586)
+
 ### Computational physics 
 ### Computational chemistry 
 ### Bioinformatics and Computational biology
