@@ -277,6 +277,11 @@
 1. :mortar_board: [MIT Design and Analysis of Algorithms 6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 ### Computer programming
+
+1. :blue_book: [Structure and Interpretation of Computer Programs by Harold Abelson,Gerald Jay Sussman, Julie Sussman](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+1. :blue_book: [ The C Programming Language by Brian W. Kernighan, Dennis M. Ritchie](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+1. :mortar_board: [MIT Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+
 ### Human–computer interaction
 ### Reverse engineering
 
