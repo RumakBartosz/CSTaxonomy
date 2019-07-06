@@ -271,6 +271,11 @@
 1. :mortar_board: [Stanford CS 106A: Programming Methodology](https://web.stanford.edu/class/cs106a/)
 
 ### Algorithm design 
+
+1. :blue_book: [ Algorithm Design by Jon Kleinberg](https://www.goodreads.com/book/show/145055.Algorithm_Design)
+1. :blue_book: [Knuth, Donald E. (2010). Selected Papers on Design of Algorithms](https://www-cs-faculty.stanford.edu/~knuth/da.html)
+1. :mortar_board: [MIT Design and Analysis of Algorithms 6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
 ### Computer programming
 ### Human–computer interaction
 ### Reverse engineering
