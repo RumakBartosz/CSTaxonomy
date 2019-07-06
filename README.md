@@ -245,6 +245,11 @@
 
 ### Computational science
 ### Numerical analysis
+
+1. :blue_book: [ Numerical Methods for Scientists and Engineers by Richard Hamming](https://www.goodreads.com/book/show/613422.Numerical_Methods_for_Scientists_and_Engineers)
+1. :blue_book: [ Numerical Analysis by Richard L. Burden, J. Douglas Faires](https://www.goodreads.com/book/show/1973342.Numerical_Analysis)
+1. :mortar_board: [MIT Introduction to Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
+
 ### Symbolic computation 
 ### Computational physics 
 ### Computational chemistry 
