@@ -244,6 +244,10 @@
 # Scientific computing
 
 ### Computational science
+
+1. :blue_book: [Introduction to High Performance Computing for Scientists and Engineers by Georg Hager](https://www.amazon.com/Introduction-Performance-Computing-Scientists-Computational/dp/143981192X)
+1. :blue_book: [Practical Guide to Computer Simulations by Alexander K Hartmann ](https://www.amazon.com/Practical-Computer-Simulations-Alexander-Hartmann/dp/981283415X)
+
 ### Numerical analysis
 
 1. :blue_book: [ Numerical Methods for Scientists and Engineers by Richard Hamming](https://www.goodreads.com/book/show/613422.Numerical_Methods_for_Scientists_and_Engineers)
