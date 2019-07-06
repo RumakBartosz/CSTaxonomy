@@ -303,6 +303,11 @@
 1. :mortar_board: [MIT Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 ### Human–computer interaction
+
+1. :blue_book: [ The Design of Everyday Things by Donald A. Norman](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
+1. :blue_book: [ Designing the User Interface: Strategies for Effective Human-Computer Interaction by Ben Shneiderman, Catherine Plaisant](https://www.goodreads.com/book/show/344725.Designing_the_User_Interface)
+1. :tv: [Stanford HCI](https://www.youtube.com/watch?v=WW1g3UT2zww&list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
+
 ### Reverse engineering
 
 1. :blue_book: [Reverse Engineering for Beginners by Dennis Yurichev](https://www.goodreads.com/book/show/25391593-reverse-engineering-for-beginners)
