@@ -261,6 +261,10 @@
 1. :blue_book: [ Computational Physics by J.M. Thijssen](https://www.goodreads.com/book/show/6335799-computational-physics)
 
 ### Computational chemistry 
+
+1. :blue_book: [Computational Chemistry and Molecular Modeling by Ramachandran, K. I., Deepa, Gopakumar, Namboori, Krishnan](https://www.springer.com/gp/book/9783540773023)
+1. :blue_book: [ Essentials of Computational Chemistry: Theories and Models by Christopher J. Cramer](https://www.goodreads.com/book/show/2319849.Essentials_of_Computational_Chemistry)
+
 ### Bioinformatics and Computational biology
 
 ### Computational neuroscience
