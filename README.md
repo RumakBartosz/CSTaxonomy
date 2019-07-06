@@ -256,6 +256,10 @@
 1. :blue_book: [Computer Algebra and Symbolic Computation: Elementary Algorithms by Joel S. Cohen ](https://www.amazon.com/Computer-Algebra-Symbolic-Computation-Elementary/dp/1568811586)
 
 ### Computational physics 
+
+1. :blue_book: [ An Introduction to Computational Physics by Tao Pang](https://www.goodreads.com/book/show/118400.An_Introduction_to_Computational_Physics)
+1. :blue_book: [ Computational Physics by J.M. Thijssen](https://www.goodreads.com/book/show/6335799-computational-physics)
+
 ### Computational chemistry 
 ### Bioinformatics and Computational biology
 
