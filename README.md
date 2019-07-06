@@ -265,6 +265,11 @@
 1. :mortar_board: [Formal Methods of Software Design an online course by Eric Hehner](http://www.cs.toronto.edu/~hehner/FMSD/)
 
 ### Software engineering 
+
+1. :blue_book: [ Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm](https://www.goodreads.com/book/show/85009.Design_Patterns)
+1. :blue_book: [Patterns of Enterprise Application Architecture by Martin Fowler](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture)
+1. :mortar_board: [Stanford CS 106A: Programming Methodology](https://web.stanford.edu/class/cs106a/)
+
 ### Algorithm design 
 ### Computer programming
 ### Human–computer interaction
