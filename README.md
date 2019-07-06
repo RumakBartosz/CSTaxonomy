@@ -267,6 +267,9 @@
 
 ### Bioinformatics and Computational biology
 
+1. :blue_book: [Computational Genome Analysis: An Introductionby Richard C. Deonier,Simon Tavaré, Michael S. Waterman](https://www.goodreads.com/en/book/show/10545083-computational-genome-analysis)
+1. :blue_book: [Computational Molecular Biology: An Algorithmic Approach (Computational Molecular Biology by Pavel A. Pevzner ](https://www.amazon.com/Computational-Molecular-Biology-Algorithmic-Approach/dp/0262161974)
+
 ### Computational neuroscience
 
 1. :blue_book: [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems by Peter Dayan, Laurence F. Abbott](https://www.goodreads.com/book/show/170015.Theoretical_Neuroscience)
