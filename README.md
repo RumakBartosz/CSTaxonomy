@@ -108,7 +108,6 @@
 1. :blue_book: [TCP/IP Illustrated – Richard Stevens](https://www.goodreads.com/book/show/9176515-tcp-ip-illustrated-volume-1)
 1. :tv: [Stanford CS144](https://www.youtube.com/watch?v=-nciJGUPyAM&list=PLK5LBGAqhW7_FNgTSY4UIB58ZEVao13IY&index=1)
 1. :mortar_board: [Stanford CS144](http://www.scs.stanford.edu/10au-cs144/)
-- (?!)
 
 ### Computer security
 
@@ -133,13 +132,14 @@
 1. :blue_book: [Modern Processor Design: Fundamentals of Superscalar Processors by John P. Shen](https://www.goodreads.com/en/book/show/2913411-modern-processor-design)
 1. :tv: [Computer Architecture MIT 6.004 2015](https://www.youtube.com/watch?v=s7svpXgxk1U&list=PLWokBk9W7kzGqZYZz6BiaqtsrHQK_22u7)
 1. :mortar_board: [6.823 Computer System Architecture - Spring 2019](http://csg.csail.mit.edu/6.823/index.html)
-- (?)
 
 ### Operating systems
 
 1. :blue_book: [ Operating System Concepts by Abraham Silberschatz](https://www.goodreads.com/book/show/13837891-operating-system-concepts)
+1. :blue_book: [ Windows® Internals (PRO-Developer) by Mark Russinovich, David A. Solomon, Alex Ionescu](https://www.goodreads.com/book/show/2556117.Windows_Internals)
+1. :blue_book: [ The UNIX Programming Environment by Brian W. Kernighan,Rob Pike](https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment)
+1. :blue_book: [ Advanced UNIX Programming by Marc J. Rochkind](https://www.goodreads.com/en/book/show/78382.Advanced_UNIX_Programming)
 1. :mortar_board: [Berkeley CS162: Operating Systems and Systems Programming](https://inst.eecs.berkeley.edu/~cs162/fa17/)
-(incomplete?)
 
 # Computer graphics
 
@@ -156,14 +156,12 @@
 1. :blue_book: [Digital Image Processing by Rafael C. Gonzalez](https://www.goodreads.com/book/show/196018.Digital_Image_Processing)
 1. :blue_book: [ The Image Processing Handbook by John C. Russ](https://www.goodreads.com/book/show/2351163.The_Image_Processing_Handbook)
 1. :mortar_board: [ EE368/CS232 Digital Image Processing ](https://web.stanford.edu/class/ee368/handouts.html)
-- (?)
 
 ### Information visualization
 
 1. :blue_book: [ The Visual Display of Quantitative Information by Edward R. Tufte](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information#)
 1. :blue_book: [ Data Visualization: A Practical Introduction by Kieran Healy](https://www.goodreads.com/en/book/show/39964443-data-visualization)
 1. :mortar_board: [How to Process, Analyze and Visualize Data MIT](https://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/)
-- (?!)
 
 # Concurrent, parallel, and distributed systems
 
@@ -195,7 +193,6 @@
 1. :blue_book: [Getting Started with NoSQL by Gaurav Vaish](https://www.goodreads.com/en/book/show/17716162-getting-started-with-nosql)
 1. :blue_book: [Professional NoSQL by Shashank Tiwari](https://www.goodreads.com/en/book/show/11930906-professional-nosql)
 1. :newspaper: [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-- (?)
 
 
 ### Data mining
