@@ -1,5 +1,18 @@
 # Table of contents
 1. [Mathematical foundations](#math)
+1. [Algorithms and data structures](#algorithms)
+1. [Artificial intelligence](#artificial)
+1. [Soft computing](#soft)
+1. [Communication and security](#communication)
+1. [Computer architecture](#architecture)
+1. [Computer graphics](#graphics)
+1. [Concurrent, parallel, and distributed systems](#concurrent)
+1. [Databases](#databases)
+1. [Programming languages and compilers](#languages)
+1. [Scientific computing](#scientific)
+1. [Software engineering](#software)
+1. [Theory of computation](#computation)
+
 
 # Mathematical foundations <a name="math"></a>
 
@@ -37,7 +50,7 @@
 
 
 
-# Algorithms and data structures
+# Algorithms and data structures <a name="algorithms"></a>
 
 ### Algorithms 
 
@@ -52,7 +65,7 @@
 1. :mortar_board: [MCS 360: Introduction to Data Structures ](http://homepages.math.uic.edu/~jan/mcs360s03/)
 1. :mortar_board: [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/fall17/)
 
-# Artificial intelligence
+# Artificial intelligence <a name="artificial"></a>
 
 ### Artificial intelligence
 
@@ -84,7 +97,7 @@
 1. :blue_book: [Programming Robots with ROS by Morgan Quigley, Brian Gerkey, William D. Smart](https://www.goodreads.com/book/show/25801530-programming-robots-with-ros)
 1. :tv: [Introduction to Robotics (CS223A) Stanford ](https://www.youtube.com/watch?v=0yD3uBshJB0&list=PL65CC0384A1798ADF)
 
-# Soft computing
+# Soft computing <a name="soft"></a>
 
 ### Machine learning
 
@@ -103,7 +116,7 @@
 1. :mortar_board: [CS 294-112 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 
-# Communication and security
+# Communication and security <a name="communication"></a>
 
 ### Networking
 
@@ -127,7 +140,7 @@
 1. :mortar_board: [Dan Boneh, Stanford University](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 
 
-# Computer architecture
+# Computer architecture <a name="architecture"></a>
 
 ### Computer architecture
 
@@ -144,7 +157,7 @@
 1. :blue_book: [ Advanced UNIX Programming by Marc J. Rochkind](https://www.goodreads.com/en/book/show/78382.Advanced_UNIX_Programming)
 1. :mortar_board: [Berkeley CS162: Operating Systems and Systems Programming](https://inst.eecs.berkeley.edu/~cs162/fa17/)
 
-# Computer graphics
+# Computer graphics <a name="graphics"></a>
 
 ### Computer graphics
 
@@ -166,7 +179,7 @@
 1. :blue_book: [ Data Visualization: A Practical Introduction by Kieran Healy](https://www.goodreads.com/en/book/show/39964443-data-visualization)
 1. :mortar_board: [How to Process, Analyze and Visualize Data MIT](https://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/)
 
-# Concurrent, parallel, and distributed systems
+# Concurrent, parallel, and distributed systems <a name="concurrent"></a>
 
 ### Parallel computing and concurrency
 
@@ -182,7 +195,7 @@
 1. :mortar_board: [CSE 552 – Distributed systems](https://courses.cs.washington.edu/courses/cse552/07sp/)
 1. :newspaper: [Readings in distributed systems](https://henryr.github.io/distributed-systems-readings/)
 
-# Databases
+# Databases <a name="databases"></a>
 
 ### Relational databases 
 
@@ -206,7 +219,7 @@
 1. :mortar_board: [Utah CS 5140 Data Mining](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html)
 
 
-# Programming languages and compilers
+# Programming languages and compilers <a name="languages"></a>
 
 ### Compiler theory 
 
@@ -241,7 +254,7 @@
 1. :newspaper: based on [So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 
 
-# Scientific computing
+# Scientific computing <a name="scientific"></a>
 
 ### Computational science
 
@@ -281,7 +294,7 @@
 1. :newspaper: [Encyclopedia:Computational neuroscience](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
 
 
-# Software engineering
+# Software engineering <a name="software"></a>
 
 ### Formal methods 
 
@@ -319,7 +332,7 @@
 
 
 
-# Theory of computation
+# Theory of computation <a name="computation"></a>
 
 ### Automata theory
 1. :blue_book: [Introduction to Automata Theory, Languages, and Computation](https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation)
