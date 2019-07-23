@@ -1,6 +1,6 @@
 # Table of contents
 1. [Mathematical foundations](#math)
-1. [Algorithms and data structures](#algorithms)
+1. [Algorithms and data structures](#algorithm)
 1. [Artificial intelligence](#artificial)
 1. [Soft computing](#soft)
 1. [Communication and security](#communication)
@@ -50,7 +50,7 @@
 
 
 
-# Algorithms and data structures <a name="algorithms"></a>
+# Algorithms and data structures <a name="algorithm"></a>
 
 ### Algorithms 
 
