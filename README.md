@@ -1,4 +1,7 @@
-# Mathematical foundations
+# Table of contents
+1. [Mathematical foundations](#math)
+
+# Mathematical foundations <a name="math"></a>
 
 ### Coding theory 
 
